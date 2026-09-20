@@ -6,6 +6,17 @@
         <description>Developer ID signed and notarized stable updates for BarKit.</description>
         <language>zh-CN</language>
         <item>
+            <title>1.5.2</title>
+            <pubDate>Sun, 20 Sep 2026 13:14:00 +0800</pubDate>
+            <link>https://github.com/seeseeczl/BarKit</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/seeseeczl/BarKit-Updates/main/BarKit-1.5.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/seeseeczl/BarKit-Updates/releases/download/v1.5.2/BarKit-1.5.2.zip" length="3127747" type="application/octet-stream" sparkle:edSignature="Yop0xIuj8XoxHHTH4MqSaXKtusIhoDgPr3/2tijKn/TYpgX5Mq+1Nq/TQgyrFsnRZiq3ZFrueaK1N7flPtRSDw=="/>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Sun, 20 Sep 2026 04:52:49 +0000</pubDate>
             <link>https://github.com/seeseeczl/BarKit</link>
