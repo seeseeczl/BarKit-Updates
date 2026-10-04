@@ -6,6 +6,16 @@
         <description>Developer ID signed and notarized stable updates for BarKit.</description>
         <language>zh-CN</language>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Sun, 04 Oct 2026 10:12:01 +0000</pubDate>
+            <link>https://github.com/seeseeczl/BarKit</link>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/seeseeczl/BarKit-Updates/releases/download/v1.7.0/BarKit-1.7.0.zip" length="3272514" type="application/octet-stream" sparkle:edSignature="DPrFzw6aAAVZf57aDXyx2TYHIfbOKeirfQfG83xTuQ6lbwCGDEF3r68Wrl7/Z8luCimm3fuMq7RB19K/pk13Dg=="/>
+        </item>
+        <item>
             <title>1.6.5</title>
             <pubDate>Sat, 03 Oct 2026 12:45:47 +0000</pubDate>
             <link>https://github.com/seeseeczl/BarKit</link>
@@ -103,17 +113,6 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/seeseeczl/BarKit-Updates/main/BarKit-1.5.2.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/seeseeczl/BarKit-Updates/releases/download/v1.5.2/BarKit-1.5.2.zip" length="3127747" type="application/octet-stream" sparkle:edSignature="Yop0xIuj8XoxHHTH4MqSaXKtusIhoDgPr3/2tijKn/TYpgX5Mq+1Nq/TQgyrFsnRZiq3ZFrueaK1N7flPtRSDw=="/>
-        </item>
-        <item>
-            <title>1.5.1</title>
-            <pubDate>Sun, 20 Sep 2026 04:52:49 +0000</pubDate>
-            <link>https://github.com/seeseeczl/BarKit</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/seeseeczl/BarKit-Updates/main/BarKit-1.5.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/seeseeczl/BarKit-Updates/releases/download/v1.5.1/BarKit-1.5.1.zip" length="3038637" type="application/octet-stream" sparkle:edSignature="7XFZDNVlmZ+sM41gWgQ+jzGI5o+VkkJNkq9wRIvO2xJwpLpwrgy9OTvpQNTCiWNAXzaPPPVpwNh6g95vvwzzCQ=="/>
         </item>
     </channel>
 </rss>
